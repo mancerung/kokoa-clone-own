@@ -63,7 +63,7 @@
     display: block;
 }
 
-.message__author span {
+.message__author > span {
     font-size: 15px;
 }
 
